@@ -6,6 +6,6 @@ A time multiplexed Bluetooth UART with Microbit LED matrix and neopixels. <br>
 <img src="picture/MicrobitBLE0313.gif"/> &nbsp;&nbsp;&nbsp;
 
 ### References
-  - [Ardafruit microbit Library](https://github.com/adafruit/Adafruit_Microbit)<br>
+  - [Adafruit microbit Library](https://github.com/adafruit/Adafruit_Microbit)<br>
   - [Arduino FastLED Library](https://github.com/FastLED/FastLED)
 
